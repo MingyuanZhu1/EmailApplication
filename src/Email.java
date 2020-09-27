@@ -85,6 +85,7 @@ public class Email {
     // Getter for password
     public String getPassword() {
         return password;
+
     }
 
     public String showInfo() {
